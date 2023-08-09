@@ -4,8 +4,8 @@
 
 <h2>Features 📰</h2>
 <ul>
-  <li>Stay Informed: Get the latest news from around the world at your fingertips.</li>
-  <li>Intuitive Interface: NewsDash offers a clean and user-friendly design for seamless news browsing.</li>
+  <li>Quick Details: Just click on any news to open it's original page.</li>
+  <li>Sleek Interface: NewsDash offers a clean and user-friendly design for seamless news browsing.</li>
   <li>Dark Mode: Enjoy reading news articles comfortably with the eye-soothing dark mode.</li>
   <li>Automated Image Handling: Dummy images seamlessly replace missing article images for a visually consistent experience.</li>
 </ul>
