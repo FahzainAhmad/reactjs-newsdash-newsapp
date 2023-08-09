@@ -1,6 +1,6 @@
 <h1>NewsDash: ReactJS news app project</h1>
 
-<i><b>** ➡️ I was not able to add live view due to new NewsAPI Policies**</b></i>
+<i><b>➡️ I was not able to add live view due to new NewsAPI Policies</b></i>
 
 <h2>Features 📰</h2>
 <ul>
