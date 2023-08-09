@@ -23,7 +23,7 @@ To run NewsDash locally, follow these steps:
   <li>Create a new reactJS project</li>
   <li>Repace the public and src folder of your new project with mine.</li>
   <li>Replace the 'package-lock.json' and'package.json' files.</li>
-  <li>Generate an API key from NewsAPI and replace it with '/src/Components/Home.js'</li>
+  <li>Generate an API key from NewsAPI and replace it in '/src/Components/Home.js'</li>
 </ol>
 <h2>Requirements 📋</h2>
 <p><strong>Important:</strong> NewsDash requires an active internet connection to fetch news data from the NewsAPI.</p>
