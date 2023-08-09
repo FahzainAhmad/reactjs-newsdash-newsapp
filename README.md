@@ -8,7 +8,7 @@
   <li>Quick Details: Just click on any news to open it's original page.</li>
   <li>Sleek Interface: NewsDash offers a clean and user-friendly design for seamless news browsing.</li>
   <li>Dark Mode: Enjoy reading news articles comfortably with the eye-soothing dark mode.</li>
-  <li>Automated Image Handling: Dummy images seamlessly replace missing article images for a visually consistent experience.</li>
+  <li>Automated Image Handling: Dummy image seamlessly replaces the missing article images for a visually consistent experience.</li>
 </ul>
 <h2>Highlights 🌟</h2>
 <ul>
