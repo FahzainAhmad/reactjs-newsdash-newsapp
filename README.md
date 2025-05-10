@@ -30,4 +30,4 @@ To run NewsDash locally, follow these steps:
 <p><strong>Important:</strong> NewsDash requires an active internet connection to fetch news data from the NewsAPI.</p>
 
 <h2>License 📜</h2>
-<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
+<p>This project is licensed under the <a href="LICENSE">GNU License</a>.</p>
